@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "logoML.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

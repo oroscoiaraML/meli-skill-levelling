@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.5.0)
+  - AndesUI (3.52.0):
+    - AndesUI/Core (= 3.52.0)
+    - PureLayout (= 3.1.2)
+  - AndesUI/Core (3.52.0):
+    - AndesUI/LocalIcons
+    - PureLayout (= 3.1.2)
+  - AndesUI/LocalIcons (3.52.0):
+    - PureLayout (= 3.1.2)
+  - IQKeyboardManager (6.5.9)
+  - PromiseKit (6.18.1):
+    - PromiseKit/CorePromise (= 6.18.1)
+    - PromiseKit/Foundation (= 6.18.1)
+    - PromiseKit/UIKit (= 6.18.1)
+  - PromiseKit/CorePromise (6.18.1)
+  - PromiseKit/Foundation (6.18.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.18.1):
+    - PromiseKit/CorePromise
+  - PureLayout (3.1.2)
+
+DEPENDENCIES:
+  - Alamofire (= 5.5)
+  - AndesUI (= 3.52.0)
+  - IQKeyboardManager
+  - PromiseKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AndesUI
+    - IQKeyboardManager
+    - PromiseKit
+    - PureLayout
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  AndesUI: 93765b2ff10f0b4a2fbb21903f5037c4103a3524
+  IQKeyboardManager: 241cc94ccabc9deb8f8bd7d12f00d73288d13ecc
+  PromiseKit: 49d70c53d5d20e346beaea4b276b5dd2ab446bb4
+  PureLayout: 4634d0b61e3b5021166e8ec7c18e9e0ca0720c8b
+
+PODFILE CHECKSUM: 8d579331c8172a929a7898733bd1511428c4b743
+
+COCOAPODS: 1.11.3
